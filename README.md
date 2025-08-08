@@ -1,5 +1,4 @@
 # sample-site
-Sample Site
-- Section one
-- Section two
-- Section three
+- [Home](index.html)
+- [About](about.html)
+- [Contact](contact.html)
